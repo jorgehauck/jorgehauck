@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-:grin: Me chamo José Jorge Hauck Júnior e tenho 23 anos.
+:grin: Me chamo José Jorge Hauck Júnior e tenho 24 anos.
 
 :man_student: Sou Graduado em Tecnologia de Análise e Desenvolvimento de Sistemas pela UNICID 💻.
 
