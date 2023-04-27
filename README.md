@@ -5,6 +5,8 @@ Sobre mim:
 :grin: Me chamo José Jorge Hauck Júnior e tenho 25 anos.
 
 :man_student: Sou Graduado em Tecnologia de Análise e Desenvolvimento de Sistemas pela UNICID 💻.
+ 
+ Atualmente trabalho como desenvolvedor FullStack Java Angular e Ionic, cursando Pós Graduação em Engenharia de Software na PUC Minas.
 
 ### Minhas Stacks
 
