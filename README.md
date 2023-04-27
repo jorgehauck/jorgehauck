@@ -6,7 +6,9 @@ Sobre mim:
 
 :man_student: Sou Graduado em Tecnologia de Análise e Desenvolvimento de Sistemas pela UNICID 💻.
  
- Atualmente trabalho como desenvolvedor FullStack Java Angular e Ionic, cursando Pós Graduação em Engenharia de Software na PUC Minas.
+:office_worker: Atualmente trabalho como desenvolvedor web FullStack Java Angular e Ionic.
+
+:orange_book: :man_technologist: Pós Graduando em Engenharia de Software PUC Minas.
 
 ### Minhas Stacks
 
