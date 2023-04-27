@@ -8,7 +8,7 @@ Sobre mim:
  
 :office_worker: Atualmente trabalho como desenvolvedor web FullStack Java Angular e Ionic.
 
-:orange_book: :man_technologist: Pós Graduando em Engenharia de Software Lato Sensu PUC Minas.
+:orange_book: :man_technologist: Pós Graduando em Engenharia de Software PUC Minas.
 
 ### Minhas Stacks
 
