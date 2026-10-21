@@ -1,21 +1,106 @@
-## Olá, Seja-Bem Vindo(a) ao meu perfil do Github! 
+# 👋 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
 
-Sobre mim:
+## 🚀 Sobre mim
 
-:grin: Me chamo José Jorge Hauck Júnior e tenho 29 anos.
+Meu nome é **José Jorge Hauck Júnior** e sou **Desenvolvedor Full Stack Pleno**, apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções escaláveis.
 
-:man_student: Sou Graduado em Tecnologia de Análise e Desenvolvimento de Sistemas pela UNICID e Pós Graduado em Engenharia de Software pela PUC.
- 
-:office_worker: Atualmente trabalho como desenvolvedor web FullStack Java Angular e Ionic.
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **UNICID**.
 
-### Minhas Stacks
+🎓 Pós-graduado em **Engenharia de Software** pela **PUC**.
 
+💼 Atualmente atuo como **Desenvolvedor Full Stack Pleno na CI&T**, contribuindo para projetos estratégicos de uma das maiores instituições financeiras do país.
 
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-### Minhas redes sociais
+## 💼 Experiência Profissional
+
+### Desenvolvedor Full Stack Pleno | CI&T
+
+Atuo no desenvolvimento e sustentação de soluções digitais de alta complexidade, participando da modernização de ecossistemas corporativos e da construção de aplicações escaláveis com foco em performance, integração e experiência do usuário.
+
+### Principais atuações
+
+#### 🌱 Modernização de Plataformas (Segmento Agro)
+
+- Desenvolvimento de soluções voltadas à transformação digital do setor agrícola.
+- Construção de arquiteturas baseadas em microserviços.
+- Evolução contínua de aplicações com foco em escalabilidade e alta disponibilidade.
+
+#### 🔗 Ecossistema Open Finance
+
+- Desenvolvimento e evolução de APIs para integração de dados financeiros.
+- Atuação ponta a ponta, desde o back-end até interfaces de usuário.
+- Participação em iniciativas de integração e compartilhamento seguro de dados.
+
+---
+
+## 🛠️ Stack Técnica
+
+### Back-end
+- Java 8 e Java 17
+- Spring Boot
+- Apache Camel
+- APIs REST
+- Microserviços
+
+### Front-end
+- Angular 8 e Angular 15
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Ionic
+
+### Banco de Dados e Mensageria
+- MongoDB
+- MySQL
+- RabbitMQ
+
+### DevOps e Infraestrutura
+- Docker
+- GitHub Actions
+- CI/CD
+- Git
+
+### Metodologias e Gestão
+- Scrum
+- Jira
+- Confluence
+
+---
+
+## 🚀 Tecnologias
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorgehauck/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jorgehauck/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/josejorgehauckjunior28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/josejorgehauckjunior28/" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
+  https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg
 </p>
+
+---
+
+## 📫 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorgehauck/" target="_blank">
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
+  </a>
+  
+  <a href="https://www.instagram.com/josejorgehauckjunior28/" target="_blank">
+    https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+  </a>
+</p>
+
+---
+
+⭐ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para criar soluções que gerem impacto real através da tecnologia.
