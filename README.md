@@ -68,27 +68,6 @@ Atuo no desenvolvimento e sustentação de soluções digitais de alta complexid
 - Jira
 - Confluence
 
----
-
-## 🚀 Tecnologias
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
-  https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg
-</p>
-
----
-
 ## 📫 Conecte-se comigo
 
 <p align="left">
